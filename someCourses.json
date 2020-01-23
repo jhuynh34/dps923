@@ -1,0 +1,17 @@
+{
+    "student": "Jeffrey Huynh",
+    "count": 10,
+    "data": [
+        { "id": 1, "courseCode": "OOP345", "courseDesc": "Object-Oriented Programming" },
+        { "id": 2, "courseCode": "DBS301", "courseDesc": "Database Design" },
+        { "id": 3, "courseCode": "SYS366", "courseDesc": "Object-Oriented Systems" },
+        { "id": 4, "courseCode": "SYS466", "courseDesc": "More Object-Oriented Systems" },
+        { "id": 5, "courseCode": "JAC444", "courseDesc": "Java Programming Fundamentals" },
+        { "id": 6, "courseCode": "WEB322", "courseDesc": "Server-sided Web Development" },
+        { "id": 7, "courseCode": "WEB422", "courseDesc": "Client-sided Web Development" },
+        { "id": 8, "courseCode": "BCI433", "courseDesc": "IBM iSeries" },
+        { "id": 9, "courseCode": "PRJ566", "courseDesc": "Project Development" },
+        { "id": 10, "courseCode": "DPS923", "courseDesc": "iOS Programming" },
+    ]
+}
+    
